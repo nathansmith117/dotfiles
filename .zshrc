@@ -11,6 +11,12 @@ HISTSIZE=10000
 SAVEHIST=1000
 setopt SHARE_HISTORY
 
+# Completion menu.
+autoload -Uz compinit
+setopt PROMPT_SUBST
+compinit
+zstyle ':completion:*' menu select
+
 # Plugins.
 source ~/.zsh/powerlevel10k/powerlevel10k.zsh-theme
 source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
