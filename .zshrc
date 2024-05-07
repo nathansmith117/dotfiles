@@ -21,9 +21,7 @@ zstyle ':completion:*' menu select
 source ~/.zsh/powerlevel10k/powerlevel10k.zsh-theme
 source ~/.zsh/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
-
-# Vim Mode.
-bindkey -v
+source ~/.zsh/vi-mode.plugin.zsh
 
 # Aliases.
 alias kitten="kitty +kitten"
