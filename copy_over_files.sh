@@ -9,5 +9,5 @@ cp ~/.p10k.zsh ./
 mkdir .config
 cd .config
 
-cp -r ~/.config/kitty ./
+cp -r ~/.config/alacritty ./
 cp -r ~/.config/fastfetch ./

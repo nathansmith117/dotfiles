@@ -1,0 +1,12 @@
+import = [
+	# Might change my mind one day on this.
+	#"~/.config/alacritty/themes/gruvbox_dark.toml"
+]
+
+[window]
+dimensions = {columns = 104, lines = 33}
+opacity = 0.95
+dynamic_title = true
+
+[cursor]
+style = {shape = "Block", blinking = "On"}
