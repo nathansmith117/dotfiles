@@ -1,6 +1,5 @@
 import = [
-	# Might change my mind one day on this.
-	#"~/.config/alacritty/themes/gruvbox_dark.toml"
+	"~/.config/alacritty/themes/gruvbox_dark.toml"
 ]
 
 [window]
