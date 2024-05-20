@@ -4,7 +4,7 @@ import = [
 ]
 
 [window]
-dimensions = {columns = 104, lines = 33}
+dimensions = {columns = 110, lines = 33}
 opacity = 0.95
 dynamic_title = true
 
