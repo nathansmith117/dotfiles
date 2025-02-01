@@ -11,3 +11,4 @@ cd .config
 
 cp -r ~/.config/alacritty ./
 cp -r ~/.config/fastfetch ./
+cp -r ~/.config/rofi ./
